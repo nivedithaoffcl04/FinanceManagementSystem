@@ -97,4 +97,4 @@ This project demonstrates Java Swing GUI development, JDBC connectivity, and bas
 
 ## 👩‍💻 Author
 
-Your Name
+Niveditha v
